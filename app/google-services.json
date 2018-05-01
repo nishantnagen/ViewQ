@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "517361322141",
+    "firebase_url": "https://viewq-19d89.firebaseio.com",
+    "project_id": "viewq-19d89",
+    "storage_bucket": "viewq-19d89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517361322141:android:75205b4f86b90e8c",
+        "android_client_info": {
+          "package_name": "com.digipodium.viewq.viewq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517361322141-n94t9rks027nu4v6kb19h3bfoja7nh8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digipodium.viewq.viewq",
+            "certificate_hash": "5a51f45aef504fe9d7c0249d3960e55729c162f0"
+          }
+        },
+        {
+          "client_id": "517361322141-n5g04mp5j98gc6vklvpbgvh01ctp0s7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwxMAEWAfC5jmwaY1Ldo9TKGS2dNL4t6c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517361322141-n5g04mp5j98gc6vklvpbgvh01ctp0s7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
